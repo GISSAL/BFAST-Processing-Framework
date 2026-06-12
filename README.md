@@ -306,13 +306,7 @@ Users should cite the original BFAST publications and related methodological ref
 
 ### Core BFAST Methodology
 
-Verbesselt, J., Hyndman, R., Newnham, G., & Culvenor, D. (2010).
-
-*Detecting trend and seasonal changes in satellite image time series.*
-
-Remote Sensing of Environment, 114(1), 106–115.
-
-https://doi.org/10.1016/j.rse.2009.08.014
+Verbesselt, J., Hyndman, R., Newnham, G., & Culvenor, D. (2010). *Detecting trend and seasonal changes in satellite image time series.* Remote Sensing of Environment, 114(1), 106–115. https://doi.org/10.1016/j.rse.2009.08.014
 
 This publication introduced the BFAST framework and remains the primary methodological reference for trend and seasonal breakpoint detection.
 
@@ -320,13 +314,7 @@ This publication introduced the BFAST framework and remains the primary methodol
 
 ### BFAST Monitoring
 
-Verbesselt, J., Zeileis, A., & Herold, M. (2012).
-
-*Near real-time disturbance detection using satellite image time series.*
-
-Remote Sensing of Environment, 123, 98–108.
-
-https://doi.org/10.1016/j.rse.2012.02.022
+Verbesselt, J., Zeileis, A., & Herold, M. (2012). *Near real-time disturbance detection using satellite image time series.* Remote Sensing of Environment, 123, 98–108. https://doi.org/10.1016/j.rse.2012.02.022
 
 This publication extends the BFAST framework for monitoring and near real-time disturbance detection.
 
@@ -334,13 +322,7 @@ This publication extends the BFAST framework for monitoring and near real-time d
 
 ### Structural Change Methodology
 
-Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002).
-
-*strucchange: An R Package for Testing for Structural Change in Linear Regression Models.*
-
-Journal of Statistical Software, 7(2), 1–38.
-
-https://doi.org/10.18637/jss.v007.i02
+Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002). *strucchange: An R Package for Testing for Structural Change in Linear Regression Models.* Journal of Statistical Software, 7(2), 1–38. https://doi.org/10.18637/jss.v007.i02
 
 The BFAST methodology relies on structural change and breakpoint detection techniques implemented through the strucchange framework. Researchers interested in the statistical foundations of breakpoint estimation and confidence intervals should consult this reference.
 
