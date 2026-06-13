@@ -341,11 +341,3 @@ citation("bfast")
 within R.
 
 ---
-
-## License Recommendation
-
-For the stated goals of promoting reuse while discouraging privatization of improvements, the recommended license is:
-
-```text
-GNU Affero General Public License v3.0 (AGPL-3.0)
-```
