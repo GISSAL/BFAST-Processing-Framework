@@ -1113,3 +1113,5 @@ citation("bfast")
 ```
 
 within R.
+
+---
