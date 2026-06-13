@@ -1113,11 +1113,3 @@ citation("bfast")
 ```
 
 within R.
-
-### License
-
-For a repository intended to promote reuse and improvements while discouraging privatization of derivative work, the recommended license is:
-
-```text
-GNU Affero General Public License v3.0 (AGPL-3.0)
-```
