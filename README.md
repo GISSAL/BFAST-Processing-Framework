@@ -1,5 +1,7 @@
 # BFAST Processing Framework
 
+[![DOI](https://zenodo.org/badge/1264975481.svg)](https://doi.org/10.5281/zenodo.20626389)
+
 A reproducible workstation-to-HPC workflow for large-scale BFAST analysis, breakpoint detection, QA/QC, ecological classification, raster generation, and mosaic creation from remote sensing time-series data.
 
 This repository contains Python, R, and SLURM scripts used to preprocess geospatial time-series data, execute BFAST (Breaks For Additive Season and Trend) analyses on a high-performance computing cluster, and convert the results into GIS-ready vector, raster, mosaic, and quality-assurance products.
