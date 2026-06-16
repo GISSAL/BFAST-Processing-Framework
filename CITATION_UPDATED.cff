@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: BFAST Processing Framework
+message: If you use this workflow, please cite this repository and the original BFAST methodology.
+authors:
+  - family-names: Hutchinson
+    given-names: Shawn
+repository-code: https://github.com/GISSAL/BFAST-Processing-Framework
+license: GPL-3.0-only
